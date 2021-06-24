@@ -6,8 +6,8 @@
 Find out more about the fire edge detection challenge in this <a href= https://github.com/EY-Data-Science-Program/2021-Better-Working-World-Data-Challenge/wiki> github wiki </a> 
 
 ## Installation
-Refer to the link above for detailed installation required. 
-Trust me, it takes a bit of effort. You'll be working in a pre-loaded Open Data Cube Environment on a Microsot Azure VM. 
+Refer to the link above for a detailed installation instruction. 
+Trust me, it takes a bit of effort to do. And you'll be working in a pre-loaded Open Data Cube Environment on a Microsot Azure VM. 
 Be sure to take your time and enjoy the experience. 
 You can also choose to use your local machine, but you'll need Docker and a lot of processing power. 
 
