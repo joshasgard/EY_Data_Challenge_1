@@ -12,7 +12,7 @@ Be sure to take your time and enjoy the experience.
 You can also choose to use your local machine, but you'll need Docker and a lot of processing power. 
 
 ## File Description
-There are 3 notebooks in the repo. One was created by <a href= https://www.ga.gov.au/dea> Digital Earth Australia </a> to describe the Basic Analysis steps involved when working with Satellite data (Geodataframes and linescans). The remaining 2 are step-by-step analysis followed to make a prediction of the boundaries of fire in a satellite linescan image. 
+There are 3 notebooks in the repo. One was created by <a href= https://docs.dea.ga.gov.au/about/intro.html> Digital Earth Australia </a> to describe the Basic Analysis steps involved when working with Satellite data (Geodataframes and linescans). The remaining 2 are step-by-step analysis followed to make a prediction of the boundaries of fire in a satellite linescan image. 
 
 The `.csv` file contains the first prediction. 
 
